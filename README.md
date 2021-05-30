@@ -11,17 +11,14 @@
   </a>
   <a href="https://github.com/apolope/workes-api/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/apolope/workes-api" />
-  </a>
-  <a href="https://twitter.com/https:\/\/twitter.com\/apolonio\_s" target="_blank">
-    <img alt="Twitter: https:\/\/twitter.com\/apolonio\_s" src="https://img.shields.io/twitter/follow/https:\/\/twitter.com\/apolonio\_s.svg?style=social" />
-  </a>
+  </a>  
 </p>
 
 > Modules to work with API, XLSX, JSON, TXT and time to wait of APIs
 
 ### 🏠 [Homepage](https://github.com/apolope/workes-api)
 
-### ✨ [Demo](http://apolonioserafim.com.br/workes-api)
+### ✨ [Demo](http://apolonioserafim.com.br/workes-api) still not working by now
 
 ## Prerequisites
 
